@@ -10,11 +10,11 @@ toters clone app
 
 ## Screenshots
 
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![](https://github.com/LAITH343/Toters_clone/blob/master/screens/1.jpg)
+![](https://github.com/LAITH343/Toters_clone/blob/master/screens/2.jpg)
+![](https://github.com/LAITH343/Toters_clone/blob/master/screens/3.jpg)
+![](https://github.com/LAITH343/Toters_clone/blob/master/screens/4.jpg)
+![](https://github.com/LAITH343/Toters_clone/blob/master/screens/5.jpg)
 
 
 ## Installation
